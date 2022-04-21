@@ -1,0 +1,20 @@
+apply plugin: 'java'
+
+repositories {
+    mavenLocal()
+    mavenCentral()
+}
+
+dependencies {
+    implementation 'org.apache.spark:spark-sql_2.12:3.0.0'
+}
+// END JUNIT TEST
+
+// JAR 
+jar {
+    // manifest {
+    //     attributes "Main-Class": 'cs455.TP.WordCount'
+    // }
+    archiveBaseName = 'TP'
+    archiveVersion =  '0.1.0'
+}
