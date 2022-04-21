@@ -13,6 +13,7 @@ public class WordCount {
 
     SparkConf sparkConf = new SparkConf().setAppName("Word Count");
     JavaSparkContext sc = new JavaSparkContext(sparkConf);
+    //directory and file has to exist in hdfs on hadoop cluster
     JavaRDD<String> textFile = sc.textFile("/TP/testdata.txt");
     JavaPairRDD<String, Integer> counts = textFile
       .flatMap(s -> Arrays.asList(s.split(" ")).iterator())
