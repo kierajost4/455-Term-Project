@@ -1,0 +1,6 @@
+Hi
+Thanks for wanting to clean the data
+Make sure your in the gisjoin_data directory
+First make sure there is no cleaned_meta_data.csv file already created
+Then run clean.py
+Yay! The data is clean
