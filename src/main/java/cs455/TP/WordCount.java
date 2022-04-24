@@ -20,7 +20,9 @@ public class WordCount {
       .mapToPair(word -> new Tuple2<>(word, 1))
       .reduceByKey((a, b) -> a + b);
       //file outputs to hdfs
-     counts.saveAsTextFile("/TP/output"); 
+     counts.saveAsTextFile("/TP/output");
+
+     //sc.close();
 
   }
   
