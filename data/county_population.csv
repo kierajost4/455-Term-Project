@@ -1,4 +1,3 @@
-GISJOIN,YEAR,STUSAB,REGIONA,DIVISIONA,STATE,STATEA,COUNTY,COUNTYA,COUSUBA,PLACEA,TRACTA,BLKGRPA,CONCITA,AIANHHA,RES_ONLYA,TRUSTA,AIHHTLI,AITS,ANRCA,CBSAA,CSAA,METDIVA,MEMI,NECTAA,CNECTAA,NECTADIVA,UAA,CDCURRA,SLDUA,SLDLA,ZCTA5A,SUBMCDA,SDELMA,SDSECA,SDUNIA,UR,PCI,PUMA5A,GEOID,BTTRA,BTBGA,NAME_E,ALUBE001,NAME_M,ALUBM001
 "G0100010","2015-2019","AL",,,"Alabama","01","Autauga County","001",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US01001",,,"Autauga County, Alabama",55380,"Autauga County, Alabama",0
 "G0100030","2015-2019","AL",,,"Alabama","01","Baldwin County","003",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US01003",,,"Baldwin County, Alabama",212830,"Baldwin County, Alabama",0
 "G0100050","2015-2019","AL",,,"Alabama","01","Barbour County","005",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US01005",,,"Barbour County, Alabama",25361,"Barbour County, Alabama",0
@@ -1801,7 +1800,7 @@ GISJOIN,YEAR,STUSAB,REGIONA,DIVISIONA,STATE,STATEA,COUNTY,COUNTYA,COUSUBA,PLACEA
 "G3500070","2015-2019","NM",,,"New Mexico","35","Colfax County","007",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US35007",,,"Colfax County, New Mexico",12168,"Colfax County, New Mexico",0
 "G3500090","2015-2019","NM",,,"New Mexico","35","Curry County","009",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US35009",,,"Curry County, New Mexico",49732,"Curry County, New Mexico",0
 "G3500110","2015-2019","NM",,,"New Mexico","35","De Baca County","011",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US35011",,,"De Baca County, New Mexico",2040,"De Baca County, New Mexico",75
-"G3500130","2015-2019","NM",,,"New Mexico","35","Doña Ana County","013",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US35013",,,"Doña Ana County, New Mexico",216069,"Doña Ana County, New Mexico",0
+"G3500130","2015-2019","NM",,,"New Mexico","35","Doï¿½a Ana County","013",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US35013",,,"Doï¿½a Ana County, New Mexico",216069,"Doï¿½a Ana County, New Mexico",0
 "G3500150","2015-2019","NM",,,"New Mexico","35","Eddy County","015",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US35015",,,"Eddy County, New Mexico",57732,"Eddy County, New Mexico",0
 "G3500170","2015-2019","NM",,,"New Mexico","35","Grant County","017",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US35017",,,"Grant County, New Mexico",27669,"Grant County, New Mexico",0
 "G3500190","2015-2019","NM",,,"New Mexico","35","Guadalupe County","019",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US35019",,,"Guadalupe County, New Mexico",4353,"Guadalupe County, New Mexico",0
@@ -3146,30 +3145,30 @@ GISJOIN,YEAR,STUSAB,REGIONA,DIVISIONA,STATE,STATEA,COUNTY,COUNTYA,COUSUBA,PLACEA
 "G7200050","2015-2019","PR",,,"Puerto Rico","72","Aguadilla Municipio","005",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72005",,,"Aguadilla Municipio, Puerto Rico",52803,"Aguadilla Municipio, Puerto Rico",0
 "G7200070","2015-2019","PR",,,"Puerto Rico","72","Aguas Buenas Municipio","007",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72007",,,"Aguas Buenas Municipio, Puerto Rico",25748,"Aguas Buenas Municipio, Puerto Rico",0
 "G7200090","2015-2019","PR",,,"Puerto Rico","72","Aibonito Municipio","009",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72009",,,"Aibonito Municipio, Puerto Rico",22988,"Aibonito Municipio, Puerto Rico",0
-"G7200110","2015-2019","PR",,,"Puerto Rico","72","Añasco Municipio","011",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72011",,,"Añasco Municipio, Puerto Rico",26934,"Añasco Municipio, Puerto Rico",0
+"G7200110","2015-2019","PR",,,"Puerto Rico","72","Aï¿½asco Municipio","011",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72011",,,"Aï¿½asco Municipio, Puerto Rico",26934,"Aï¿½asco Municipio, Puerto Rico",0
 "G7200130","2015-2019","PR",,,"Puerto Rico","72","Arecibo Municipio","013",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72013",,,"Arecibo Municipio, Puerto Rico",85390,"Arecibo Municipio, Puerto Rico",0
 "G7200150","2015-2019","PR",,,"Puerto Rico","72","Arroyo Municipio","015",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72015",,,"Arroyo Municipio, Puerto Rico",17805,"Arroyo Municipio, Puerto Rico",0
 "G7200170","2015-2019","PR",,,"Puerto Rico","72","Barceloneta Municipio","017",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72017",,,"Barceloneta Municipio, Puerto Rico",24079,"Barceloneta Municipio, Puerto Rico",0
 "G7200190","2015-2019","PR",,,"Puerto Rico","72","Barranquitas Municipio","019",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72019",,,"Barranquitas Municipio, Puerto Rico",28393,"Barranquitas Municipio, Puerto Rico",0
-"G7200210","2015-2019","PR",,,"Puerto Rico","72","Bayamón Municipio","021",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72021",,,"Bayamón Municipio, Puerto Rico",178192,"Bayamón Municipio, Puerto Rico",0
+"G7200210","2015-2019","PR",,,"Puerto Rico","72","Bayamï¿½n Municipio","021",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72021",,,"Bayamï¿½n Municipio, Puerto Rico",178192,"Bayamï¿½n Municipio, Puerto Rico",0
 "G7200230","2015-2019","PR",,,"Puerto Rico","72","Cabo Rojo Municipio","023",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72023",,,"Cabo Rojo Municipio, Puerto Rico",48487,"Cabo Rojo Municipio, Puerto Rico",0
 "G7200250","2015-2019","PR",,,"Puerto Rico","72","Caguas Municipio","025",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72025",,,"Caguas Municipio, Puerto Rico",128937,"Caguas Municipio, Puerto Rico",0
 "G7200270","2015-2019","PR",,,"Puerto Rico","72","Camuy Municipio","027",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72027",,,"Camuy Municipio, Puerto Rico",31598,"Camuy Municipio, Puerto Rico",0
-"G7200290","2015-2019","PR",,,"Puerto Rico","72","Canóvanas Municipio","029",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72029",,,"Canóvanas Municipio, Puerto Rico",45588,"Canóvanas Municipio, Puerto Rico",0
+"G7200290","2015-2019","PR",,,"Puerto Rico","72","Canï¿½vanas Municipio","029",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72029",,,"Canï¿½vanas Municipio, Puerto Rico",45588,"Canï¿½vanas Municipio, Puerto Rico",0
 "G7200310","2015-2019","PR",,,"Puerto Rico","72","Carolina Municipio","031",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72031",,,"Carolina Municipio, Puerto Rico",153779,"Carolina Municipio, Puerto Rico",0
-"G7200330","2015-2019","PR",,,"Puerto Rico","72","Cataño Municipio","033",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72033",,,"Cataño Municipio, Puerto Rico",24271,"Cataño Municipio, Puerto Rico",0
+"G7200330","2015-2019","PR",,,"Puerto Rico","72","Cataï¿½o Municipio","033",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72033",,,"Cataï¿½o Municipio, Puerto Rico",24271,"Cataï¿½o Municipio, Puerto Rico",0
 "G7200350","2015-2019","PR",,,"Puerto Rico","72","Cayey Municipio","035",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72035",,,"Cayey Municipio, Puerto Rico",43785,"Cayey Municipio, Puerto Rico",0
 "G7200370","2015-2019","PR",,,"Puerto Rico","72","Ceiba Municipio","037",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72037",,,"Ceiba Municipio, Puerto Rico",11515,"Ceiba Municipio, Puerto Rico",0
 "G7200390","2015-2019","PR",,,"Puerto Rico","72","Ciales Municipio","039",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72039",,,"Ciales Municipio, Puerto Rico",16513,"Ciales Municipio, Puerto Rico",0
 "G7200410","2015-2019","PR",,,"Puerto Rico","72","Cidra Municipio","041",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72041",,,"Cidra Municipio, Puerto Rico",39607,"Cidra Municipio, Puerto Rico",0
 "G7200430","2015-2019","PR",,,"Puerto Rico","72","Coamo Municipio","043",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72043",,,"Coamo Municipio, Puerto Rico",38906,"Coamo Municipio, Puerto Rico",0
-"G7200450","2015-2019","PR",,,"Puerto Rico","72","Comerío Municipio","045",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72045",,,"Comerío Municipio, Puerto Rico",19224,"Comerío Municipio, Puerto Rico",0
+"G7200450","2015-2019","PR",,,"Puerto Rico","72","Comerï¿½o Municipio","045",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72045",,,"Comerï¿½o Municipio, Puerto Rico",19224,"Comerï¿½o Municipio, Puerto Rico",0
 "G7200470","2015-2019","PR",,,"Puerto Rico","72","Corozal Municipio","047",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72047",,,"Corozal Municipio, Puerto Rico",33500,"Corozal Municipio, Puerto Rico",0
 "G7200490","2015-2019","PR",,,"Puerto Rico","72","Culebra Municipio","049",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72049",,,"Culebra Municipio, Puerto Rico",1311,"Culebra Municipio, Puerto Rico",240
 "G7200510","2015-2019","PR",,,"Puerto Rico","72","Dorado Municipio","051",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72051",,,"Dorado Municipio, Puerto Rico",36803,"Dorado Municipio, Puerto Rico",0
 "G7200530","2015-2019","PR",,,"Puerto Rico","72","Fajardo Municipio","053",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72053",,,"Fajardo Municipio, Puerto Rico",31111,"Fajardo Municipio, Puerto Rico",0
 "G7200540","2015-2019","PR",,,"Puerto Rico","72","Florida Municipio","054",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72054",,,"Florida Municipio, Puerto Rico",11697,"Florida Municipio, Puerto Rico",0
-"G7200550","2015-2019","PR",,,"Puerto Rico","72","Guánica Municipio","055",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72055",,,"Guánica Municipio, Puerto Rico",16293,"Guánica Municipio, Puerto Rico",0
+"G7200550","2015-2019","PR",,,"Puerto Rico","72","Guï¿½nica Municipio","055",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72055",,,"Guï¿½nica Municipio, Puerto Rico",16293,"Guï¿½nica Municipio, Puerto Rico",0
 "G7200570","2015-2019","PR",,,"Puerto Rico","72","Guayama Municipio","057",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72057",,,"Guayama Municipio, Puerto Rico",40889,"Guayama Municipio, Puerto Rico",0
 "G7200590","2015-2019","PR",,,"Puerto Rico","72","Guayanilla Municipio","059",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72059",,,"Guayanilla Municipio, Puerto Rico",18514,"Guayanilla Municipio, Puerto Rico",0
 "G7200610","2015-2019","PR",,,"Puerto Rico","72","Guaynabo Municipio","061",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72061",,,"Guaynabo Municipio, Puerto Rico",86937,"Guaynabo Municipio, Puerto Rico",0
@@ -3179,35 +3178,35 @@ GISJOIN,YEAR,STUSAB,REGIONA,DIVISIONA,STATE,STATEA,COUNTY,COUNTYA,COUSUBA,PLACEA
 "G7200690","2015-2019","PR",,,"Puerto Rico","72","Humacao Municipio","069",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72069",,,"Humacao Municipio, Puerto Rico",52507,"Humacao Municipio, Puerto Rico",0
 "G7200710","2015-2019","PR",,,"Puerto Rico","72","Isabela Municipio","071",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72071",,,"Isabela Municipio, Puerto Rico",41707,"Isabela Municipio, Puerto Rico",0
 "G7200730","2015-2019","PR",,,"Puerto Rico","72","Jayuya Municipio","073",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72073",,,"Jayuya Municipio, Puerto Rico",14539,"Jayuya Municipio, Puerto Rico",0
-"G7200750","2015-2019","PR",,,"Puerto Rico","72","Juana Díaz Municipio","075",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72075",,,"Juana Díaz Municipio, Puerto Rico",46152,"Juana Díaz Municipio, Puerto Rico",0
+"G7200750","2015-2019","PR",,,"Puerto Rico","72","Juana Dï¿½az Municipio","075",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72075",,,"Juana Dï¿½az Municipio, Puerto Rico",46152,"Juana Dï¿½az Municipio, Puerto Rico",0
 "G7200770","2015-2019","PR",,,"Puerto Rico","72","Juncos Municipio","077",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72077",,,"Juncos Municipio, Puerto Rico",38780,"Juncos Municipio, Puerto Rico",0
 "G7200790","2015-2019","PR",,,"Puerto Rico","72","Lajas Municipio","079",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72079",,,"Lajas Municipio, Puerto Rico",22835,"Lajas Municipio, Puerto Rico",0
 "G7200810","2015-2019","PR",,,"Puerto Rico","72","Lares Municipio","081",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72081",,,"Lares Municipio, Puerto Rico",25696,"Lares Municipio, Puerto Rico",0
-"G7200830","2015-2019","PR",,,"Puerto Rico","72","Las Marías Municipio","083",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72083",,,"Las Marías Municipio, Puerto Rico",8370,"Las Marías Municipio, Puerto Rico",0
+"G7200830","2015-2019","PR",,,"Puerto Rico","72","Las Marï¿½as Municipio","083",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72083",,,"Las Marï¿½as Municipio, Puerto Rico",8370,"Las Marï¿½as Municipio, Puerto Rico",0
 "G7200850","2015-2019","PR",,,"Puerto Rico","72","Las Piedras Municipio","085",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72085",,,"Las Piedras Municipio, Puerto Rico",37499,"Las Piedras Municipio, Puerto Rico",0
-"G7200870","2015-2019","PR",,,"Puerto Rico","72","Loíza Municipio","087",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72087",,,"Loíza Municipio, Puerto Rico",25778,"Loíza Municipio, Puerto Rico",0
+"G7200870","2015-2019","PR",,,"Puerto Rico","72","Loï¿½za Municipio","087",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72087",,,"Loï¿½za Municipio, Puerto Rico",25778,"Loï¿½za Municipio, Puerto Rico",0
 "G7200890","2015-2019","PR",,,"Puerto Rico","72","Luquillo Municipio","089",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72089",,,"Luquillo Municipio, Puerto Rico",18224,"Luquillo Municipio, Puerto Rico",0
-"G7200910","2015-2019","PR",,,"Puerto Rico","72","Manatí Municipio","091",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72091",,,"Manatí Municipio, Puerto Rico",38836,"Manatí Municipio, Puerto Rico",0
+"G7200910","2015-2019","PR",,,"Puerto Rico","72","Manatï¿½ Municipio","091",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72091",,,"Manatï¿½ Municipio, Puerto Rico",38836,"Manatï¿½ Municipio, Puerto Rico",0
 "G7200930","2015-2019","PR",,,"Puerto Rico","72","Maricao Municipio","093",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72093",,,"Maricao Municipio, Puerto Rico",6075,"Maricao Municipio, Puerto Rico",240
 "G7200950","2015-2019","PR",,,"Puerto Rico","72","Maunabo Municipio","095",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72095",,,"Maunabo Municipio, Puerto Rico",10776,"Maunabo Municipio, Puerto Rico",0
-"G7200970","2015-2019","PR",,,"Puerto Rico","72","Mayagüez Municipio","097",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72097",,,"Mayagüez Municipio, Puerto Rico",75232,"Mayagüez Municipio, Puerto Rico",0
+"G7200970","2015-2019","PR",,,"Puerto Rico","72","Mayagï¿½ez Municipio","097",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72097",,,"Mayagï¿½ez Municipio, Puerto Rico",75232,"Mayagï¿½ez Municipio, Puerto Rico",0
 "G7200990","2015-2019","PR",,,"Puerto Rico","72","Moca Municipio","099",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72099",,,"Moca Municipio, Puerto Rico",36161,"Moca Municipio, Puerto Rico",0
 "G7201010","2015-2019","PR",,,"Puerto Rico","72","Morovis Municipio","101",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72101",,,"Morovis Municipio, Puerto Rico",30962,"Morovis Municipio, Puerto Rico",0
 "G7201030","2015-2019","PR",,,"Puerto Rico","72","Naguabo Municipio","103",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72103",,,"Naguabo Municipio, Puerto Rico",26075,"Naguabo Municipio, Puerto Rico",0
 "G7201050","2015-2019","PR",,,"Puerto Rico","72","Naranjito Municipio","105",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72105",,,"Naranjito Municipio, Puerto Rico",28112,"Naranjito Municipio, Puerto Rico",0
 "G7201070","2015-2019","PR",,,"Puerto Rico","72","Orocovis Municipio","107",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72107",,,"Orocovis Municipio, Puerto Rico",20982,"Orocovis Municipio, Puerto Rico",0
 "G7201090","2015-2019","PR",,,"Puerto Rico","72","Patillas Municipio","109",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72109",,,"Patillas Municipio, Puerto Rico",16929,"Patillas Municipio, Puerto Rico",0
-"G7201110","2015-2019","PR",,,"Puerto Rico","72","Peñuelas Municipio","111",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72111",,,"Peñuelas Municipio, Puerto Rico",20383,"Peñuelas Municipio, Puerto Rico",0
+"G7201110","2015-2019","PR",,,"Puerto Rico","72","Peï¿½uelas Municipio","111",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72111",,,"Peï¿½uelas Municipio, Puerto Rico",20383,"Peï¿½uelas Municipio, Puerto Rico",0
 "G7201130","2015-2019","PR",,,"Puerto Rico","72","Ponce Municipio","113",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72113",,,"Ponce Municipio, Puerto Rico",139671,"Ponce Municipio, Puerto Rico",0
 "G7201150","2015-2019","PR",,,"Puerto Rico","72","Quebradillas Municipio","115",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72115",,,"Quebradillas Municipio, Puerto Rico",23629,"Quebradillas Municipio, Puerto Rico",0
-"G7201170","2015-2019","PR",,,"Puerto Rico","72","Rincón Municipio","117",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72117",,,"Rincón Municipio, Puerto Rico",14056,"Rincón Municipio, Puerto Rico",0
-"G7201190","2015-2019","PR",,,"Puerto Rico","72","Río Grande Municipio","119",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72119",,,"Río Grande Municipio, Puerto Rico",49613,"Río Grande Municipio, Puerto Rico",0
+"G7201170","2015-2019","PR",,,"Puerto Rico","72","Rincï¿½n Municipio","117",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72117",,,"Rincï¿½n Municipio, Puerto Rico",14056,"Rincï¿½n Municipio, Puerto Rico",0
+"G7201190","2015-2019","PR",,,"Puerto Rico","72","Rï¿½o Grande Municipio","119",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72119",,,"Rï¿½o Grande Municipio, Puerto Rico",49613,"Rï¿½o Grande Municipio, Puerto Rico",0
 "G7201210","2015-2019","PR",,,"Puerto Rico","72","Sabana Grande Municipio","121",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72121",,,"Sabana Grande Municipio, Puerto Rico",22560,"Sabana Grande Municipio, Puerto Rico",0
 "G7201230","2015-2019","PR",,,"Puerto Rico","72","Salinas Municipio","123",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72123",,,"Salinas Municipio, Puerto Rico",28109,"Salinas Municipio, Puerto Rico",0
-"G7201250","2015-2019","PR",,,"Puerto Rico","72","San Germán Municipio","125",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72125",,,"San Germán Municipio, Puerto Rico",31442,"San Germán Municipio, Puerto Rico",0
+"G7201250","2015-2019","PR",,,"Puerto Rico","72","San Germï¿½n Municipio","125",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72125",,,"San Germï¿½n Municipio, Puerto Rico",31442,"San Germï¿½n Municipio, Puerto Rico",0
 "G7201270","2015-2019","PR",,,"Puerto Rico","72","San Juan Municipio","127",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72127",,,"San Juan Municipio, Puerto Rico",335468,"San Juan Municipio, Puerto Rico",0
 "G7201290","2015-2019","PR",,,"Puerto Rico","72","San Lorenzo Municipio","129",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72129",,,"San Lorenzo Municipio, Puerto Rico",37209,"San Lorenzo Municipio, Puerto Rico",0
-"G7201310","2015-2019","PR",,,"Puerto Rico","72","San Sebastián Municipio","131",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72131",,,"San Sebastián Municipio, Puerto Rico",37120,"San Sebastián Municipio, Puerto Rico",0
+"G7201310","2015-2019","PR",,,"Puerto Rico","72","San Sebastiï¿½n Municipio","131",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72131",,,"San Sebastiï¿½n Municipio, Puerto Rico",37120,"San Sebastiï¿½n Municipio, Puerto Rico",0
 "G7201330","2015-2019","PR",,,"Puerto Rico","72","Santa Isabel Municipio","133",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72133",,,"Santa Isabel Municipio, Puerto Rico",21757,"Santa Isabel Municipio, Puerto Rico",0
 "G7201350","2015-2019","PR",,,"Puerto Rico","72","Toa Alta Municipio","135",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72135",,,"Toa Alta Municipio, Puerto Rico",72864,"Toa Alta Municipio, Puerto Rico",0
 "G7201370","2015-2019","PR",,,"Puerto Rico","72","Toa Baja Municipio","137",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"05000US72137",,,"Toa Baja Municipio, Puerto Rico",77810,"Toa Baja Municipio, Puerto Rico",0
