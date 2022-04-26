@@ -1,14 +1,4 @@
 #!/bin/bash
-# gradle build
-
-# bash ./scripts/runGISCrime.sh
-
-# bash ./scripts/institutionsPerCapita.sh child_care_centers.csv careCenters
-# bash ./scripts/institutionsPerCapita.sh hospitals.csv hospitals
-# bash ./scripts/institutionsPerCapita.sh local_law_enforcement_locations.csv localLaw
-# bash ./scripts/institutionsPerCapita.sh places_of_worship.csv worship
-# bash ./scripts/institutionsPerCapita.sh private_schools.csv privateSchools
-# bash ./scripts/institutionsPerCapita.sh public_schools.csv publicSchools
 
 if [[ $1 == "clean" ]]; then
   $HADOOP_HOME/bin/hadoop fs -rm -r /TP
@@ -28,6 +18,7 @@ if [[ $1 == "add" ]]; then
   $HADOOP_HOME/bin/hadoop fs -put data/gisjoin_data/cleaned_meta_data.csv /TP/data
   $HADOOP_HOME/bin/hadoop fs -put data/crime_data.csv /TP/data
   exit 0
+  
 fi
 
 gradle build
