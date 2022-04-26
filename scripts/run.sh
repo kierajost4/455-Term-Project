@@ -5,7 +5,7 @@ if [[ $1 == "clean" ]]; then
   exit 0
 fi
 
-if [[ $1 == "add" ]]; then
+if [[ $1 == "load" ]]; then
 
   $HADOOP_HOME/bin/hadoop fs -mkdir /TP
   $HADOOP_HOME/bin/hadoop fs -mkdir /TP/data
