@@ -24,15 +24,24 @@ public class GISJOINcrime {
           return !row.equals(header);
         });
 
-        JavaPairRDD<String, String> crimeData2 = crimeData
+        JavaPairRDD<String, String> crimeDataSplit = crimeData
           .map(line -> line.split(","))
           .mapToPair(s -> new Tuple2<String , String>(s[1].substring(1, s[1].length()-1) + "," + s[0].substring(1) , s[2]));
 
-        JavaPairRDD<String, Tuple2<String,String>> joined = crimeData2.join(gisData);
-        // System.out.println("##################################");
-        // System.out.println(gisData.first().toString());
-        // System.out.println(crimeData2.first().toString());
-        joined.saveAsTextFile("/TP/output");
+        // JavaPairRDD<String, Tuple2<String,String>> joined = crimeData2.join(gisData);
+
+        try {
+          JavaPairRDD<String,Double> county_crime = crimeDataSplit
+          .join(gisData)
+          .mapToPair(f -> new Tuple2<>(f._2._2, Double.parseDouble(f._2._1))
+        );
+
+        county_crime.saveAsTextFile("/TP/output");
+          
+        } catch(Exception e){
+          System.err.println("could not parse score to double");
+        }
+
     
          sc.close();
     
