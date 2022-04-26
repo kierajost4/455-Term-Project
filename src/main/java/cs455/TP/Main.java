@@ -1,6 +1,7 @@
 package cs455.TP;
 
 import org.apache.spark.SparkConf;
+import org.apache.spark.api.java.JavaRDD;
 import org.apache.spark.api.java.JavaSparkContext;
 
 public class Main {
@@ -15,7 +16,10 @@ public class Main {
 
     //aggregates instituion and crime data
     Aggregate aggregate = new Aggregate(cr, ipc);
-    aggregate.AggregateData();
+    JavaRDD<String> data = aggregate.AggregateData();
+
+    Correlation corr = new Correlation(sc);
+    corr.getCorrelation(data);
 
     sc.close();
 

@@ -40,8 +40,7 @@ public class CrimeRate {
       .join(gisData)
       .mapToPair(f -> new Tuple2<>(f._2._2, f._2._1)
     );
-    
-    sc.close();
+  
     return county_crime;
   }    
 }

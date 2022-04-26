@@ -1,6 +1,5 @@
 package cs455.TP;
 
-import org.apache.spark.SparkConf;
 import org.apache.spark.api.java.JavaPairRDD;
 import org.apache.spark.api.java.JavaRDD;
 import org.apache.spark.api.java.JavaSparkContext;
@@ -32,7 +31,6 @@ public class InstitutionsPerCapita {
         .join(population)
         .mapToPair(f -> new Tuple2<>(f._1, String.valueOf((double)f._2._1 / (double)f._2._2)));
 
-    sc.close();
     return perCapita;
 
   }
