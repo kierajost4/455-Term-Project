@@ -41,6 +41,8 @@ public class GenCorr {
         System.out.println("Correlation Matrix:");
         System.out.println(correlMatrix.toString());
         
+        System.out.println(Arrays.toString(correlMatrix.toArray()));
+        
 
         MultivariateStatisticalSummary summary = Statistics.colStats(data.rdd());
         System.out.println("Summary Mean:");
