@@ -34,6 +34,8 @@ public class InstitutionsPerCapita {
 
     // save to hdfs
     perCapita.saveAsTextFile("/TP/output");
+
+    sc.close();
   }
   
 }

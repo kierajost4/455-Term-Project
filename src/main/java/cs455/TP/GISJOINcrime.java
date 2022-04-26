@@ -28,12 +28,13 @@ public class GISJOINcrime {
           .map(line -> line.split(","))
           .mapToPair(s -> new Tuple2<String , String>(s[1].substring(1, s[1].length()-1) + "," + s[0].substring(1) , s[2]));
 
-        JavaPairRDD<String, Tuple2<String,String>> joined = crimeData2.join(gisData);
+        JavaRDD<String> joined = crimeData2.join(gisData)
+          .map(x ->x._2._2 + "," + x._1 + "," + x._2._1);
+
         // System.out.println("##################################");
         // System.out.println(gisData.first().toString());
         // System.out.println(crimeData2.first().toString());
         joined.saveAsTextFile("/TP/output");
-    
          sc.close();
     
       }    
