@@ -16,7 +16,7 @@ public class DataJoin {
     public static void main(String[] args) {
         // String institutionsFile = args[0];
         // String outputName = args[1];
-        String filePaths = "/TP/output/*/*";
+        //String filePaths = "/TP/output/*/*";
         //String filePaths = "/TP/output/careCenters/*,/TP/output/hospitals/*,/TP/output/crimeRate/*";
         SparkConf sparkConf = new SparkConf().setAppName("Aggregate all the data together");
         JavaSparkContext sc = new JavaSparkContext(sparkConf);
@@ -43,7 +43,7 @@ public class DataJoin {
           .map(x -> x.substring(1, x.length()-1).split(","))
           .mapToPair(f -> new Tuple2<String, String>(f[0], f[1]));
 
-        JavaPairRDD<String, String> joined = careCenters.join(crimeRate)
+        JavaPairRDD<String, String> joined = crimeRate.join(careCenters)
         .mapToPair(q -> new Tuple2 <String, String>(q._1,q._2._1 + "," + q._2._2))
         .join(hospitals)
         .mapToPair(q -> new Tuple2 <String, String>(q._1,q._2._1 + "," + q._2._2))
@@ -61,7 +61,7 @@ public class DataJoin {
           // .mapToPair(f -> new Tuple2<String, String>(f[0], f[1]))
           // .groupByKey();
       
-        JavaRDD<String> out = joined.map(z -> z._1 + "," + z._2);
+        JavaRDD<String> out = joined.map(z -> z._2);
 
         out.saveAsTextFile("/TP/corrData/");
         sc.close();
