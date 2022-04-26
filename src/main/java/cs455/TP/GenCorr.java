@@ -38,22 +38,24 @@ public class GenCorr {
             });
           
         Matrix correlMatrix = Statistics.corr(data.rdd(), "pearson");
-        System.out.println("Correlation Matrix:");
+        //System.out.println("Correlation Matrix:");
         System.out.println(correlMatrix.toString());
         
         System.out.println(Arrays.toString(correlMatrix.toArray()));
-        
+        String b = Arrays.toString(correlMatrix.toArray());
+        JavaRDD<String> mat = sc.parallelize(Arrays.asList(b));
+      
 
         MultivariateStatisticalSummary summary = Statistics.colStats(data.rdd());
-        System.out.println("Summary Mean:");
-        System.out.println(summary.mean());
-        System.out.println("Summary Variance:");
-        System.out.println(summary.variance());
-        System.out.println("Summary Non-zero:");
-        System.out.println(summary.numNonzeros());
+        String[] stats = new String[3];
+        stats[0] = "Summary Mean: " + summary.mean();
+        stats[1] ="Summary Variance: " + summary.variance();
+        stats[2] ="Summary Non-zero: " + summary.numNonzeros();
+        JavaRDD<String> s = sc.parallelize(Arrays.asList(stats));
+            
         
-        
-        data.saveAsTextFile("/TP/corrMat/");
+        mat.saveAsTextFile("/TP/corrMat/");
+        s.saveAsTextFile("/TP/stats/");
         sc.close();
       }
 }
