@@ -9,4 +9,5 @@ $HADOOP_HOME/bin/hadoop fs -put data/institutions/private_schools.csv /TP/data
 $HADOOP_HOME/bin/hadoop fs -put data/institutions/public_schools.csv /TP/data
 $HADOOP_HOME/bin/hadoop fs -put data/county_population.csv /TP/data
 $HADOOP_HOME/bin/hadoop fs -put data/crime_data.csv /TP/data
+$HADOOP_HOME/bin/hadoop fs -put data/gisjoin_data/cleaned_meta_data.csv /TP/data
 $HADOOP_HOME/bin/hadoop fs -ls /TP/data
