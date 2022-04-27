@@ -1,5 +1,11 @@
 # 455-Term-Project
 
+## Authors: 
+
+- Wyatt Poulos
+- Asa Davis 
+- Kiera Jost
+
 Run:
 sh scripts/run.sh [min income] [max income]
 
