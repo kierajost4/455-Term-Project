@@ -12,7 +12,7 @@ public class Main {
     JavaSparkContext sc = new JavaSparkContext(sparkConf);
 
     CrimeRate cr = new CrimeRate(sc);
-    InstitutionsPerCapita ipc = new InstitutionsPerCapita(sc);
+    InstitutionsPerCapita ipc = new InstitutionsPerCapita(sc, Integer.parseInt(args[0]), Integer.parseInt(args[1]));
 
     //aggregates instituion and crime data
     Aggregate aggregate = new Aggregate(cr, ipc);
