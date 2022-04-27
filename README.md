@@ -1,4 +1,10 @@
 # 455-Term-Project
 
-to calculate institutions per capita:
-./institutionsPerCapita.sh hospitals.csv
+Run:
+sh scripts/run.sh
+
+Clean HDFS:
+sh scripts/run.sh --clean
+
+Load data into HDFS:
+sh scripts/run.sh --load
