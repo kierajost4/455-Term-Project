@@ -19,12 +19,12 @@ public class Correlation {
   }
 
   public void getCorrelation(JavaRDD<String> data) {
-        
+    
     JavaRDD<Vector> filtered  = data
       .map(line ->{
         String[] parts = line.split(",");
-        double[] v = new double[parts.length - 1];
-        for (int i = 0; i < parts.length - 1; i++) {
+        double[] v = new double[parts.length];
+        for (int i = 0; i < parts.length; i++) {
           v[i] = Double.parseDouble(parts[i]);
         }
         return Vectors.dense(v);
